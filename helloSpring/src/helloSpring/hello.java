@@ -4,7 +4,7 @@ public class hello {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello Spring 프로그래밍!!!");
+		System.out.println("Hello Spring boot 프로그래밍!!!");
 	}
 
 }
